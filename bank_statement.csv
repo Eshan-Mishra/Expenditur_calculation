@@ -1,0 +1,102 @@
+Transaction ID,Mode of Payment,Date,Amount,Platform,Category,Credit,Debit,Balance
+WE6728SA ,Online Transfer,01-01-2023,10000,Bank,Salary,10000,0,10000
+MS0XN4NN,Cash Deposit,02-01-2023,629.09,Amazon,Education,0,629.09,9370.91
+H1DIILLY,Cash Deposit,03-01-2023,41.25,Coffee Shop,Dining Out,0,41.25,9329.66
+8HO4RWTR,Online Transfer,06-01-2023,122.62,Bookstore,Entertainment,0,122.62,9207.04
+13UMI55P,Cash Deposit,08-01-2023,857.07,Bookstore,Shopping,0,857.07,8349.97
+13KA138R,Cash Deposit,10-01-2023,561.85,Coffee Shop,Shopping,0,561.85,7788.12
+2743BLQJ,Debit Card,16-01-2023,891.35,Netflix,Groceries,0,891.35,6896.77
+ZBG94V9L,Online Transfer,25-01-2023,686.27,Amazon,Shopping,0,686.27,6210.5
+RUJ69NRV,Cash Deposit,06-02-2023,794.41,Netflix,Shopping,0,794.41,5416.09
+CA81NNQM,Online Transfer,11-02-2023,961.95,Amazon,Education,0,961.95,4454.14
+V3F4EECC,Debit Card,11-02-2023,94.09,Amazon,Entertainment,0,94.09,4360.05
+BPUQ1WBH,Debit Card,15-02-2023,206.05,Amazon,Education,0,206.05,4154
+6YT85ENY,Cash Deposit,19-02-2023,29.43,Amazon,Dining Out,0,29.43,4124.57
+VHLOH3FG,Cash Withdrawal,21-02-2023,472.59,Coffee Shop,Shopping,0,472.59,3651.98
+B9XIA0AG,Cash Withdrawal,26-02-2023,651.54,Coffee Shop,Shopping,0,651.54,3000.44
+QSFUY27L,Online Transfer,04-03-2023,961.95,Netflix,Dining Out,0,961.95,2038.49
+WFD7NF4Z,Debit Card,05-03-2023,297.01,Netflix,Dining Out,0,297.01,1741.48
+WE6728SA ,Online Transfer,13-03-2023,10000,Bank,Salary,10000,0,11741.48
+FNMZMEMZ,Cash Withdrawal,14-03-2023,664.54,Amazon,Entertainment,0,664.54,11076.94
+TJ6C0IH0,Online Transfer,15-03-2023,805.57,Grocery Store,Groceries,0,805.57,10271.37
+MV3IIVV4,Cash Deposit,17-03-2023,666.61,Netflix,Dining Out,0,666.61,9604.76
+0OCZTZ1N,Cash Deposit,23-03-2023,750.89,Grocery Store,Shopping,0,750.89,8853.87
+GPGZ307R,Online Transfer,02-04-2023,708.79,Coffee Shop,Shopping,0,708.79,8145.08
+W118J3OD,Cash Withdrawal,04-04-2023,119,Bookstore,Entertainment,0,119,8026.08
+Y9A6A2D0,Debit Card,05-04-2023,485.12,Grocery Store,Groceries,0,485.12,7540.96
+G4INXDRK,Cash Withdrawal,06-04-2023,726.82,Bookstore,Dining Out,0,726.82,6814.14
+97RW7X0Y,Cash Deposit,13-04-2023,392.64,Netflix,Groceries,0,392.64,6421.5
+L2GUGH3U,Cash Deposit,15-04-2023,633.99,Bookstore,Groceries,0,633.99,5787.51
+90VX03N4,Cash Deposit,21-04-2023,328.83,Amazon,Entertainment,0,328.83,5458.68
+10VWMXT5,Debit Card,25-04-2023,334.38,Bookstore,Education,0,334.38,5124.3
+AR418MNX,Debit Card,28-04-2023,187.64,Grocery Store,Groceries,0,187.64,4936.66
+JLRHBW6Q,Cash Deposit,01-05-2023,894.3,Netflix,Entertainment,0,894.3,4042.36
+R1OQBPKC,Cash Withdrawal,02-05-2023,243.77,Amazon,Groceries,0,243.77,3798.59
+T8FC2HVE,Cash Deposit,07-05-2023,482.83,Bookstore,Education,0,482.83,3315.76
+2Z9YKEP8,Online Transfer,08-05-2023,760.45,Netflix,Education,0,760.45,2555.31
+078S44FE,Cash Withdrawal,10-05-2023,210.19,Bookstore,Groceries,0,210.19,2345.12
+ENJAI7C0,Online Transfer,19-05-2023,557.63,Bookstore,Groceries,0,557.63,1787.49
+E46XLS11,Cash Withdrawal,19-05-2023,397.2,Grocery Store,Education,0,397.2,1390.29
+TL02UU2U,Online Transfer,19-05-2023,54.42,Amazon,Dining Out,0,54.42,1335.87
+PY6D7AMX,Cash Deposit,27-05-2023,989.94,Amazon,Education,0,989.94,345.93
+WE6728SA ,Online Transfer,11-11-2023,10000,Bank,Salary,10000,0,10345.93
+G6ZE9HI8,Online Transfer,28-05-2023,655.96,Amazon,Entertainment,0,655.96,9689.97
+Q28FWAW1,Cash Deposit,05-06-2023,582.12,Bookstore,Shopping,0,582.12,9107.85
+WMMK92QJ,Debit Card,08-06-2023,501.54,Amazon,Groceries,0,501.54,8606.31
+OS1RQBM3,Debit Card,08-06-2023,24.51,Bookstore,Shopping,0,24.51,8581.8
+F8Z00W39,Online Transfer,09-06-2023,363.91,Coffee Shop,Shopping,0,363.91,8217.89
+K1V4BLEX,Cash Deposit,09-06-2023,838.37,Grocery Store,Entertainment,0,838.37,7379.52
+X2TCUMI4,Cash Deposit,10-06-2023,172.31,Bookstore,Education,0,172.31,7207.21
+DX8F8LR9,Debit Card,11-06-2023,432.54,Grocery Store,Entertainment,0,432.54,6774.67
+CXN0EQQO,Cash Withdrawal,12-06-2023,315.88,Bookstore,Entertainment,0,315.88,6458.79
+E0RNGNPO,Online Transfer,23-06-2023,813.76,Amazon,Dining Out,0,813.76,5645.03
+LXISOF0W,Cash Withdrawal,02-07-2023,353.68,Amazon,Shopping,0,353.68,5291.35
+IOZ4724I,Online Transfer,03-07-2023,829.47,Amazon,Education,0,829.47,4461.88
+PRDAX50R,Cash Deposit,04-07-2023,96.08,Netflix,Groceries,0,96.08,4365.8
+2IEBV7GW,Debit Card,05-07-2023,419.88,Bookstore,Dining Out,0,419.88,3945.92
+ZFBDKNJF,Cash Withdrawal,08-07-2023,834.26,Amazon,Entertainment,0,834.26,3111.66
+XJNI9QOJ,Cash Withdrawal,08-07-2023,839.24,Bookstore,Dining Out,0,839.24,2272.42
+T8F6GPXF,Cash Deposit,13-07-2023,318.87,Netflix,Education,0,318.87,1953.55
+4S62GD4M,Cash Deposit,15-07-2023,791.58,Bookstore,Education,0,791.58,1161.97
+A53Y3Z6G,Debit Card,19-07-2023,318.46,Grocery Store,Dining Out,0,318.46,843.51
+26SYS6EA,Cash Withdrawal,27-07-2023,538.12,Coffee Shop,Education,0,538.12,305.39
+FQCYVEEP,Debit Card,03-08-2023,176.4,Grocery Store,Entertainment,0,176.4,128.99
+WE6728SA ,Online Transfer,11-11-2023,10000,Bank,Salary,10000,0,10128.99
+J30A9HID,Cash Withdrawal,10-08-2023,789.09,Grocery Store,Groceries,0,789.09,9339.9
+TMTMVJLN,Cash Deposit,10-08-2023,496.32,Bookstore,Education,0,496.32,8843.58
+PH44ARAB,Debit Card,12-08-2023,689.05,Bookstore,Shopping,0,689.05,8154.53
+X75XW9VU,Debit Card,14-08-2023,142.86,Amazon,Entertainment,0,142.86,8011.67
+W3KGKODY,Debit Card,17-08-2023,170.86,Netflix,Entertainment,0,170.86,7840.81
+TY7DYCYJ,Cash Deposit,28-08-2023,45.49,Amazon,Education,0,45.49,7795.32
+1RMZEHO4,Cash Deposit,03-09-2023,668.01,Coffee Shop,Entertainment,0,668.01,7127.31
+WQZ9I4FR,Cash Deposit,03-09-2023,184.39,Coffee Shop,Dining Out,0,184.39,6942.92
+6O1RDM7H,Cash Withdrawal,03-09-2023,452.24,Bookstore,Education,0,452.24,6490.68
+8C6I129E,Debit Card,05-09-2023,829.65,Coffee Shop,Dining Out,0,829.65,5661.03
+SP1U6EW9,Online Transfer,12-09-2023,54.2,Coffee Shop,Shopping,0,54.2,5606.83
+WP8KRVOC,Cash Withdrawal,12-09-2023,441.33,Amazon,Entertainment,0,441.33,5165.5
+LK2DA6UM,Debit Card,12-09-2023,684.8,Coffee Shop,Education,0,684.8,4480.7
+0A1IHV6Y,Cash Withdrawal,14-09-2023,168.18,Coffee Shop,Groceries,0,168.18,4312.52
+KPDJS8ZR,Cash Withdrawal,19-09-2023,19.78,Amazon,Entertainment,0,19.78,4292.74
+WH2S1X6F,Cash Deposit,21-09-2023,533.79,Coffee Shop,Dining Out,0,533.79,3758.95
+OKCK35H7,Cash Deposit,21-09-2023,510.23,Netflix,Shopping,0,510.23,3248.72
+BP7JVZGE,Online Transfer,22-09-2023,225.76,Bookstore,Groceries,0,225.76,3022.96
+0HIM2R85,Debit Card,08-10-2023,925.78,Grocery Store,Dining Out,0,925.78,2097.18
+WE6728SA ,Online Transfer,11-11-2023,10000,Bank,Salary,10000,0,12097.18
+ANLVVYGO,Cash Withdrawal,08-10-2023,963.1,Grocery Store,Shopping,0,963.1,11134.08
+IW51YPE4,Online Transfer,09-10-2023,972.09,Amazon,Shopping,0,972.09,10161.99
+8B7XFNPC,Cash Deposit,14-10-2023,258.4,Netflix,Dining Out,0,258.4,9903.59
+793ROSVW,Debit Card,23-10-2023,858.36,Netflix,Shopping,0,858.36,9045.23
+1LY6YK1E,Debit Card,26-10-2023,435.55,Coffee Shop,Shopping,0,435.55,8609.68
+ZSSH1PKN,Cash Deposit,27-10-2023,431.34,Amazon,Education,0,431.34,8178.34
+FZOTCADY,Cash Withdrawal,02-11-2023,189.55,Grocery Store,Groceries,0,189.55,7988.79
+G6AB9924,Cash Deposit,11-11-2023,269.03,Grocery Store,Shopping,0,269.03,7719.76
+89141IR0,Cash Deposit,11-11-2023,305.41,Coffee Shop,Education,0,305.41,7414.35
+DXL9CXEX,Cash Withdrawal,26-11-2023,782.46,Grocery Store,Shopping,0,782.46,6631.89
+2PK6A6XD,Debit Card,02-12-2023,19.83,Grocery Store,Shopping,0,19.83,6612.06
+99W7HWUO,Online Transfer,04-12-2023,951.19,Grocery Store,Shopping,0,951.19,5660.87
+JWBUVVA0,Cash Deposit,11-12-2023,724.21,Bookstore,Entertainment,0,724.21,4936.66
+UR4OR1ZA,Cash Withdrawal,15-12-2023,490.22,Netflix,Shopping,0,490.22,4446.44
+IW5BK0XM,Online Transfer,18-12-2023,65.86,Grocery Store,Shopping,0,65.86,4380.58
+9V2W1WVM,Debit Card,21-12-2023,615.61,Bookstore,Groceries,0,615.61,3764.97
+XRDXA1EV,Cash Withdrawal,24-12-2023,550.9,Netflix,Groceries,0,550.9,3214.07
+D4GFW0TC,Online Transfer,27-12-2023,660.52,Coffee Shop,Groceries,0,660.52,2553.55
