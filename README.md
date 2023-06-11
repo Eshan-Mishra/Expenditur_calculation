@@ -1,4 +1,4 @@
-# Expenditur_calculation
+# Expenditure_calculation
 
 
 Abstract: The aim of this project is to analyze bank statement data and provide users with an expenditure calculator.
